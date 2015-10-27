@@ -8,6 +8,7 @@ These purpose of these files were to create an online text-based browser game to
 5. Player skill item leveling system,
 6. Simple PVP combat system with PVP Battle Leaderboard,
 7. Records framework for future machine learning exercises
+
 ##History
 JPVocab is the result of an extreme streamlining of it's predecessor [tehJapanesesite.com](http://www.tehJapanesesite.com). This predecessor was vaguely named because its initial intention was to be a central hub for many Japanese language learning functions such as
 * Japanese flashcards
