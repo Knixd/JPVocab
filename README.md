@@ -30,7 +30,7 @@ The design is intentionally simple and minimalist. I had originally written all 
 
 All future design must be minimalist and serve the function of language learner needs first. UI and UX is very important because these sites are tools whose functions are to be used over and over.
 
-##Future Upgrades That You Could Do
+##Future Upgrades That You Could Help With
 ####PVP
 1. The PVP battle arena needs better visuals,
 2. The Combat results and combat log need a severe visual upgrade
@@ -41,6 +41,7 @@ All future design must be minimalist and serve the function of language learner 
 4. Combat "algorithm" could be upgraded
 5. Timers could be added to training times
 6. Timers or Daily turns could be added to limit attacks on other players per day
+
 ####PVE
 1. A linear set of increasingly harder bosses can be established
   * User battles a string of bosses and sees how far they can get.
@@ -50,6 +51,7 @@ All future design must be minimalist and serve the function of language learner 
 4. A Choose-Your-Own-Adventure series 
   * Try to survive and keep the story going.
   * Share your story to fb
+
 ####Flashcard Decks
 1. Need more flashcard decks
 2. Need audio files for words
@@ -59,6 +61,7 @@ All future design must be minimalist and serve the function of language learner 
 4. If audio and images are added to each card, flashcard layout needs to be redesigned
 5. Could redesign results log of users flashcard guess
 6. A user submitted flashcard deck marketplace system could be developed but would require severe hands-on QA (quality assurance)
+
 ####Players/Users
 1. Could use a daily login reward system
 2. Could display flashcard usage
