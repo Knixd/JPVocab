@@ -1,0 +1,4 @@
+<h3>How does this work?</h3>
+<p class="text-muted"><i><a href="http://www.JPVocab.com/" alt="Japanese Anime Flashcards">Register</a> to receive two Japanese flashcard decks: <a href="http://www.JPVocab.com/Japanese-Vocabulary/deck.php?t=Beginner&d=Hiragana" alt="Hiragana Flash card">Hiragana</a> and Minna no Nihongo. Correctly answer cards from these decks to earn gold. Use this gold to buy more flash card decks.</i></p>
+<h3>What are Diamonds?</h3>
+<p class="text-muted"><i>Diamonds are a premium currency at <span class="text-danger">JP</span><span class="text-primary">Vocab</span><span class="text-muted">.com</span>. Diamonds are obtained by paying real money. Diamonds allow you to buy Japanese flash card decks without first having to earn enough gold.</i></p>

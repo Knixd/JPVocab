@@ -1,0 +1,194 @@
+#welcome-wrap1{
+	margin-top:-20px;
+	background:url(../img/section1.jpg) center center fixed;
+}
+.inner-wrap-login{
+	margin-bottom:150px;
+	border: 1px solid #C8D7E3;
+	background: none repeat scroll 0% 0% #395E87;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+.inner-wrap{
+	margin-top:30px;
+	/*margin-bottom:100px;*/
+	border: 1px solid #C8D7E3;
+	background: none repeat scroll 0% 0% #395E87;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding-bottom:15px;
+}
+.innerLeft{
+	padding:5px;
+}
+.innerLeft-wrap{
+	background: #fff;
+	border: 1px solid #3B5066;
+	box-shadow: 0px 0px 3px #000;
+	border-radius: 5px;
+	color: #000;
+}
+.innerRight{
+}
+#signupform{
+	padding-left:15px;
+	color:#fff;
+}
+.form-rounded{
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+.marg-bot{
+	margin-bottom:15px;
+}
+.pad-bot{
+	padding-bottom:15px;
+}
+.pad-right-left-none{
+	padding-left:0px;
+	padding-right:0px;
+}
+.pad-left-none{
+	padding-left:0px;
+}
+.no-marg-top-23{
+	margin-top:-23px;
+}
+.no-marg-bot{
+	margin-bottom:-15px;
+}
+.marg-bot-0{
+	margin-bottom:0px;
+}
+#quizProgBar{
+	margin-bottom:0px;
+	line-height: 1.4;
+}
+.marg-top-5{
+	margin-top:5px;
+}
+.loginLabel{
+	margin-top:11px;
+}
+#statusReg{
+	color:#fff;
+}
+#unamestatus{
+	color:#C8E3E2;
+}
+#flashNav{
+	margin-top:-30px;
+}
+@import url(http://fonts.googleapis.com/css?family=Lato:400,900|Montez);
+.sparkley {
+  background: #3e5771;
+  color: white;
+  border: none;
+  padding: 16px 36px;
+  font-weight: normal;
+  border-radius: 3px;
+  transition: all 0.25s ease;
+  /*box-shadow: 0 38px 32px -23px black;*/
+  margin: 0 1em 1em;
+}
+.sparkley:hover {
+  background: #2c3e50;
+  color: rgba(255, 255, 255, 0.2);
+}
+.align-middle{
+	vertical-align:middle !important;
+}
+#verbCon-wrap{
+	margin-top: -20px;
+	background: #eee url(../img/section4.jpg) repeat;
+	
+}
+.dl-font{
+	font-size:1.44em;
+}
+.greyed{
+	color:#696969;
+}
+.marooned{
+	color:#800000;
+}
+.label.label-purpled{
+	background: #a41d6e;
+}
+.navbar-justified #pickStyle{
+	text-align:left;
+}
+.bg-info.audio-tab{
+	background: #a41d6e;
+	border-radius:4px;
+}
+	.bg-info.audio-tab a{
+		color:#fff;
+	}
+		.bg-info.audio-tab a:hover{
+			background:#72144c;
+		}
+.jumbotron.play{
+	margin-bottom:0;
+	padding-bottom:0;
+}
+.jumbotron.play a{
+
+}
+	.jumbotron.play a:hover{
+		color: #a41d6e;
+	}
+.play-Glyph{
+		font-size:12em;
+		padding-top: 10px;
+		padding-bottom: 20px;
+	}
+.opacity2 {
+	opacity:0.2;
+}
+/*
+Reference: http://avexdesigns.com/responsive-youtube-embed/
+*/
+
+.vid {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.vid iframe,
+.vid object,
+.vid embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+#question{
+	min-height:225px;
+}
+.borderless tbody tr td, .borderless tbody tr th, .borderless thead tr th {
+    border: none;
+}
+.thin tbody tr td, .thin tbody tr th, .thin thead tr th {
+    line-height:0.6em;
+}
+abbr{
+	color: #FF8300;
+}
+.deckList a{
+	padding:0px 0px 0px 10px;
+}
+.my-page-header{
+	border-bottom: 1px solid #dddddd;
+}
+.unselectable {
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */       
+}
